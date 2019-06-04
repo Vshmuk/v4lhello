@@ -1,0 +1,18 @@
+© 2014 Cisco and/or its affiliates. All rights reserved.
+44
+Utilities
+●
+v4l2-ctl: Swiss army knife for v4l2.
+●
+v4l2-compliance: V4L2 compliance driver testing.
+●
+v4l2-dbg: allows access to DBG_G_CHIP_INFO, 
+DBG_G/S_REGISTER.
+●
+qv4l2: Qt test application.
+●
+Core debugging: 'echo 1 >/sys/class/video4linux/video0/debug'.
+–
+1: show ioctl name
+–
+2: show arguments as well
